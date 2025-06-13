@@ -5,7 +5,7 @@ let num2 = 2;
 let multiply =(num1* num2);
 console.log(multiply);
 //"generates a random integer greater than 0
-let random = Math.floor(Math.random()*10)
+let random = Math.floor(Math.random()*10)+1;
 console.log(random);
 ///////generates a remainder that equal to 4
 let num3=14;
